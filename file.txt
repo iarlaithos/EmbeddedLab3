@@ -1,0 +1,24 @@
+total 72
+-rw-r--r--@ 1 iarlaithos  staff   86 27 Sep 12:30 both.txt
+-rwxr-xr-x@ 1 iarlaithos  staff  134 27 Sep 12:27 default.sh
+-rw-r--r--@ 1 iarlaithos  staff   40 27 Sep 12:30 errors.txt
+-rw-r--r--@ 1 iarlaithos  staff    0 28 Sep 12:39 file.txt
+-rwxr-xr-x@ 1 iarlaithos  staff  106 28 Sep 12:39 notSh.txt
+-rwx------@ 1 iarlaithos  staff   16 28 Sep 10:46 pass.txt
+-rw-rw-rw-@ 1 iarlaithos  staff    0 27 Sep 12:33 permissions.txt
+-rwxr-xr-x@ 1 iarlaithos  staff  270 27 Sep 12:30 redirection.sh
+-rwxr-xr-x  1 iarlaithos  staff  291 28 Sep 11:57 set_password.sh
+-rwxr-xr-x@ 1 iarlaithos  staff  305 27 Sep 12:24 string_length.sh
+-rwxr-xr-x@ 1 iarlaithos  staff  298 27 Sep 12:26 substrings.sh
+total 80
+-rw-r--r--@ 1 iarlaithos  staff   86 27 Sep 12:30 both.txt
+-rwxr-xr-x@ 1 iarlaithos  staff  134 27 Sep 12:27 default.sh
+-rw-r--r--@ 1 iarlaithos  staff   40 27 Sep 12:30 errors.txt
+-rw-r--r--@ 1 iarlaithos  staff  696 28 Sep 12:39 file.txt
+-rwxr-xr-x@ 1 iarlaithos  staff  106 28 Sep 12:39 notSh.txt
+-rwx------@ 1 iarlaithos  staff   16 28 Sep 10:46 pass.txt
+-rw-rw-rw-@ 1 iarlaithos  staff    0 27 Sep 12:33 permissions.txt
+-rwxr-xr-x@ 1 iarlaithos  staff  270 27 Sep 12:30 redirection.sh
+-rwxr-xr-x  1 iarlaithos  staff  291 28 Sep 11:57 set_password.sh
+-rwxr-xr-x@ 1 iarlaithos  staff  305 27 Sep 12:24 string_length.sh
+-rwxr-xr-x@ 1 iarlaithos  staff  298 27 Sep 12:26 substrings.sh

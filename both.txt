@@ -1,0 +1,11 @@
+both.txt
+default.sh
+errors.txt
+file.txt
+notSh.txt
+pass.txt
+permissions.txt
+redirection.sh
+set_password.sh
+string_length.sh
+substrings.sh

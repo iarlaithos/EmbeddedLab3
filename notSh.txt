@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo executing all scripts
+
+for f in ./*.sh ; do [ -x "$f" ] && [ ! -d "$f" ] && "$f" ; done
